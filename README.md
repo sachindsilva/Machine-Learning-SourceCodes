@@ -19,7 +19,7 @@
 
 *`MSE-1 SOURCE CODES`*
 
-- **[Download Here](https://github.com/amppmann/Machine-Learning-SourceCodes/blob/gh-pages/ML-Lab_Source_Codes.zip)**
+- **[Download Here](https://amppmann.github.io/Machine-Learning-SourceCodes/ML-Lab_Source_Codes.zip)**
 
 
 
