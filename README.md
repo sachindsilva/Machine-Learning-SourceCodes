@@ -19,8 +19,9 @@
 
 *`MSE-1 SOURCE CODES`*
 
-- **[Download Here](https://amppmann.github.io/Machine-Learning-SourceCodes/ML-Lab_Source_Codes.zip)**
+**<div><img src="https://raw.githubusercontent.com/sachindsilva16/WebP-Lab-Codes/gh-pages/logos/zip.png" height="18" width="18" style="margin-right:4px;max-width:100%;"> <a href="https://amppmann.github.io/Machine-Learning-SourceCodes/ML-Lab_Source_Codes.zip">Download Here</a>**
 
+</div>
 
 
 
