@@ -4,7 +4,7 @@
 
 *`LAB MANUAL`*
 
-- **[Machine Learning Lab Manual](https://github.com/amppmann/Machine-Learning-SourceCodes/blob/main/Manual/%7BMachine%20Learning%7D-Lab%20Manual.pdf)**
+- **[Machine Learning Lab Manual](https://amppmann.github.io/Machine-Learning-SourceCodes/%7BMachine%20Learning%7D-Lab%20Manual.pdf)**
 
 **` DATASETS `**
 
