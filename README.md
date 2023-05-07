@@ -1,6 +1,8 @@
 
 ## *Unofficial Repository for Machine Learning Course*
 
+*`MSE2 SOURCE CODES`*
+- **[MSE2 Lab Source Codes](https://github.com/amppmann/Machine-Learning-SourceCodes/tree/main/MSE%202)**
 
 *`LAB MANUAL`*
 
