@@ -30,7 +30,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, rando
 from sklearn.preprocessing import StandardScaler
 sc = StandardScaler()
 X_train = sc.fit_transform(X_train)
-X_test = sc.transform(X_test)a
+X_test = sc.transform(X_test)
 # Part 2 - Building the ANN
 # Initializing the ANN
 ann = tf.keras.models.Sequential()
