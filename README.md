@@ -1,5 +1,5 @@
 
-## 🗯️**Unofficial Repository for Machine Learning Course** 🗯️
+## 🗯️*Unofficial Repository for Machine Learning Course* 🗯️
 
 <hr>
 
