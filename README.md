@@ -1,5 +1,5 @@
 
-## 🗯️*Unofficial Repository for Machine Learning Course* 🗯️
+## 🗯️**Unofficial Repository for Machine Learning Course** 🗯️
 
 <hr>
 
@@ -27,7 +27,7 @@
 
 - [x] **[Social_Network_Ads.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Social_Network_Ads.csv)**
 
-*`MSE-1 SOURCE CODES`*
+**`MSE-1 SOURCE CODES`**
 --
 - **<div><img src="https://raw.githubusercontent.com/sachindsilva16/WebP-Lab-Codes/gh-pages/logos/zip.png" height="18" width="18" style="margin-right:4px;max-width:100%;"> <a href="https://amppmann.github.io/Machine-Learning-SourceCodes/ML-Lab_Source_Codes.zip">Download Here</a>**
 
