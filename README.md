@@ -2,7 +2,8 @@
 ## *Unofficial Repository for Machine Learning Course*
 
 *`MSE2 SOURCE CODES`*
-- **[MSE2 Lab Source Codes](https://github.com/amppmann/Machine-Learning-SourceCodes/tree/main/MSE%202)**
+
+- [x] **[MSE2 Lab Source Codes](https://github.com/amppmann/Machine-Learning-SourceCodes/tree/main/MSE%202)**
 
 *`LAB MANUAL`*
 --
@@ -11,17 +12,18 @@
 **` DATASETS `**
 --
 
-- **[Salary_Data.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Salary_Data.csv)**
 
-- **[Position_Salaries.csv](https://github.com/amppmann/Machine-Learning-SourceCodes/blob/main/Position_Salaries.csv)**
+- [x] **[Salary_Data.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Salary_Data.csv)**
 
-- **[Diabetes.csv](https://github.com/amppmann/Machine-Learning-SourceCodes/blob/main/diabetes.csv)**
+- [x] **[Position_Salaries.csv](https://github.com/amppmann/Machine-Learning-SourceCodes/blob/main/Position_Salaries.csv)**
 
-- **[Mall_Customers.csv](https://github.com/amppmann/Machine-Learning-SourceCodes/blob/main/Mall_Customers.csv)**
+- [x] **[Diabetes.csv](https://github.com/amppmann/Machine-Learning-SourceCodes/blob/main/diabetes.csv)**
 
-- **[Churn_Modeling.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Churn_Modelling.csv)**
+- [x] **[Mall_Customers.csv](https://github.com/amppmann/Machine-Learning-SourceCodes/blob/main/Mall_Customers.csv)**
 
-- **[Social_Network_Ads.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Social_Network_Ads.csv)**
+- [x] **[Churn_Modeling.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Churn_Modelling.csv)**
+
+- [x] **[Social_Network_Ads.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Social_Network_Ads.csv)**
 
 *`MSE-1 SOURCE CODES`*
 --
