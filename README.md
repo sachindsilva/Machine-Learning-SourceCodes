@@ -1,14 +1,12 @@
 
 ## 🗯️*Unofficial Repository for Machine Learning Course* 🗯️
 
-<hr>
-
-
-
 
 **`LAB MANUAL`**
 --
 - [ ] **[Machine Learning Lab Manual](https://amppmann.github.io/Machine-Learning-SourceCodes/%7BMachine%20Learning%7D-Lab%20Manual.pdf)**
+
+<hr>
 
 #### **` 👇 DOWNLOAD-ALL DATASETS 👇`**
 
@@ -32,6 +30,8 @@
 - [x] **[Churn_Modeling.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Churn_Modelling.csv)**
 
 - [x] **[Social_Network_Ads.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Social_Network_Ads.csv)**
+
+<hr>
 
 **`MSE-1 SOURCE CODES`**
 --
