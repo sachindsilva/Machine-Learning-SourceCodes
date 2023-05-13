@@ -21,7 +21,7 @@
 
 - [x] **[Churn_Modeling.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Churn_Modelling.csv)**
 
-- [x] **[Diabetes.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/blob/main/diabetes.csv)**
+- [x] **[Diabetes.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/diabetes.csv)**
 
 - [x] **[Enjoy_sport1.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Enjoy_sport1.csv)**
 
