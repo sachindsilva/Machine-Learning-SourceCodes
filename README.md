@@ -37,7 +37,7 @@
 
 - [x] **[Iris.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Iris.csv)**
 
-- [x] **[Mall_Customers.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/blob/main/Mall_Customers.csv)**
+- [x] **[Mall_Customers.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Mall_Customers.csv)**
 
 - [x] **[Preprocessing.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/pre_data.csv)**
 
