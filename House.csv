@@ -1,0 +1,11 @@
+ID,Age,Gender,Married,Native,Employment_Status,Salary,Purchase_Type
+1,45,Male,Yes,Yes,Employed,72000,Buy
+2,25,Male,No,No,Student,,Rent
+3,,Male,Yes,No,Employed,54000,Rent
+4,30,Male,No,Yes,Employed,61000,Buy
+5,25,Female,No,No,Employed,83000,Rent
+6,35,Female,No,Yes,Employed,58000,Buy
+7,,Female,Yes,No,Employed,25000,Rent
+8,40,Female,Yes,Yes,Employed,52000,Buy
+9,50,Female,Yes,Yes,Houewife,,Rent
+10,42,Male,Yes,No,Employed,67000,Buy
