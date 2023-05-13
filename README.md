@@ -28,6 +28,15 @@
 
 - [x] **[Breast_Cancer.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Breast_Cancer.csv)**
 
+- [x] **[Google_stock.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Google_stock.csv)**
+
+- [x] **[House.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/House.csv)**
+
+- [x] **[HousingDataset.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/HousingDataset.csv)**
+
+- [x] **[Iris.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Iris.csv)**
+
+- [x] **[Google_Stock_Price_Train.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Lab5_Google_Stock_Price_Train.csv)**
 
 - [x] **[Tennis.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/tennis.csv)**
 
