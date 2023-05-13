@@ -41,7 +41,7 @@
 
 - [x] **[Preprocessing.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/pre_data.csv)**
 
-- [x] **[Position_Salaries.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/blob/main/Position_Salaries.csv)**
+- [x] **[Position_Salaries.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Position_Salaries.csv)**
 
 - [x] **[Salary_Data.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Salary_Data.csv)**
 
